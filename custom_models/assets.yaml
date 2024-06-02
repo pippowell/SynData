@@ -1,0 +1,24 @@
+name: Custom Assets
+description: custom assets
+
+assets:
+  Sunflower:
+    type: model
+    tags: [sunflower]
+    license: CC0
+    filepath: sunflower_normal.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05sy
+    filepath_md5: 80cffd6310b8907b3c578ceef994537e
+  Blue_Flower:
+    type: model
+    tags: [blue]
+    license: CC0
+    filepath: blue_flower.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: 695ca950d9ce26317455a0883baeaa62

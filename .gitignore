@@ -2,3 +2,4 @@ syclops-dir
 *.pyc
 build
 *.egg-info
+/output/
