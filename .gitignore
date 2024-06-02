@@ -3,3 +3,4 @@ syclops-dir
 build
 *.egg-info
 /output/
+/blender-3.6.1/

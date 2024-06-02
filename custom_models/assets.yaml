@@ -22,3 +22,53 @@ assets:
     #vertices: '415,174'
     #height: 0.05
     filepath_md5: 695ca950d9ce26317455a0883baeaa62
+  Corn 25:
+    type: model
+    tags: [corn, quarter]
+    license: CC0
+    filepath: corn_25.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: a7fcbb59ff73fcbef361be0481859766
+  Corn 50:
+    type: model
+    tags: [corn, half]
+    license: CC0
+    filepath: corn_50.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: e06320c46f4d0f41cf7a671c5b6a8158
+  Corn 75:
+    type: model
+    tags: [corn, three_quarter]
+    license: CC0
+    filepath: corn_75.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: 5fe94f5ddacfcf4a8d6dad9453aa2834
+  Corn 100:
+    type: model
+    tags: [corn, full]
+    license: CC0
+    filepath: corn_100.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: 0cea7c7bc99bff9bf61b0ffbc649f73b
+  Corn 125:
+    type: model
+    tags: [corn, supersize]
+    license: CC0
+    filepath: corn_125.blend
+    # following not actually needed, and will generate md5 automatically
+    #filepath_md5: 2ee42495903f1c6f7aff6b17d2f5c1e5
+    #vertices: '415,174'
+    #height: 0.05
+    filepath_md5: 1c3a39d8dc14a601e57723aed68454fb

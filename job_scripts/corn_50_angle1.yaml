@@ -58,14 +58,14 @@ scene:
 
   syclops_plugin_crop:
     - name: "Corn"
-      models: [Example Assets/Corn]
+      models: [Custom Assets/Corn 50]
       floor_object: Ground
       crop_angle: 0 # degrees; [-90, 90] possible
       row_distance: 0.75 # m
       row_standard_deviation: 0.2 # m
       plant_distance: 0.1
       plant_standard_deviation: 0.0 # m
-      scale_standard_deviation: 0.1
+      scale_standard_deviation: 0.5
       class_id: 2
       class_id_offset:
         Stem: 1
