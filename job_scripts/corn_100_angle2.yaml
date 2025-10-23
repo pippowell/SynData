@@ -1,4 +1,4 @@
-steps: 2
+steps: 50
 seeds:
   numpy: 42
   cycles: 42
@@ -21,7 +21,7 @@ transformations:
           # -8, 0, 0.5 YES - elevated sideways, angled down slightly
           # -8, 0, 0.5 YES - elevated sideways, angled down more
           # -8, 0, 0.35 YES - even sideways, tilted slightly down
-          linear: [[-8,-10,0.5],[0,0.05,0]]
+          linear: [[-8,-23,0.5],[0,0.01,0]]
           # pitch, roll, yaw
           # 1.25, 0, 1.5 YES - ditto
           # 1.25, 0, 1.5 YES - ditto
